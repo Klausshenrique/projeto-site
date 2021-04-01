@@ -13,5 +13,32 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px blue;
+    box-shadow: 3px 3px 5px rgb(222, 222, 223);
+
+}
+
+h1 {
+    font-size: 2em;
+    color: darkred;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: darkred;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: darkred;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: darkgray;
+
 }
